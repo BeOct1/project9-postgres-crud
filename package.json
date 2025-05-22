@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "express": "^5.1.0",
     "express-api": "^0.0.0",
     "express-validator": "^7.2.1",
     "pg": "^8.16.0"

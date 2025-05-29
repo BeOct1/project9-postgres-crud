@@ -5,5 +5,23 @@
     "express-api": "^0.0.0",
     "express-validator": "^7.2.1",
     "pg": "^8.16.0"
-  }
+  },
+  "name": "project9-postgres-crud",
+  "version": "1.0.0",
+  "description": "This API provides endpoints for managing users.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BeOct1/project9-postgres-crud.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BeOct1/project9-postgres-crud/issues"
+  },
+  "homepage": "https://github.com/BeOct1/project9-postgres-crud#readme"
 }
